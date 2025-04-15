@@ -1,6 +1,6 @@
 # 📄 Document Scanner & OCR Tool
 
-Welcome to the **Document Scanner & OCR Tool**! This Python-based desktop application and command-line script let you easily scan and transform documents by detecting edges and adjusting for perspective, enabling accurate text extraction via OCR (Optical Character Recognition).
+Welcome to the *AI based document scanner**! This Python-based desktop application and command-line script let you easily scan and transform documents by detecting edges and adjusting for perspective, enabling accurate text extraction via OCR (Optical Character Recognition).
 
 ## ✨ Features
 
