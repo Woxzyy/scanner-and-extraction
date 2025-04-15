@@ -17,7 +17,7 @@ Welcome to the **Document Scanner & OCR Tool**! This Python-based desktop applic
    cd scanner-and-extraction
    ```
 
-2. **Install Requirements**:
+2. **Install Requirement**:
    ```bash
    pip install -r requirements.txt
    ```
